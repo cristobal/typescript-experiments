@@ -1,0 +1,14 @@
+{
+  "name": "@typescript-experiments/verbatim-module-syntax",
+  "private": true,
+  "description": "testing out verbatim module syntax",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "5.0.4"
+  }
+}
