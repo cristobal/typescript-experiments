@@ -1,0 +1,14 @@
+{
+  "name": "experiments",
+  "private": "true",
+  "description": "TypeScript Experiments & Ramblings",
+  "keywords": [
+    "typescript",
+    "experiments",
+    "ramblings"
+  ],
+  "license": "unlicense",
+  "workspaces": [
+    "01-verbatim-module-syntax"
+  ]
+}
